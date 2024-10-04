@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Gilroy";
+  src:
+    url("/src/assets/fonts/Gilroy-Black.woff") format("woff"),
+    url("/src/assets/fonts/Gilroy-Medium.woff") format("woff"),
+    url("/src/assets/fonts/Gilroy-Regular.woff") format("woff"),
+    url("/src/assets/fonts/Gilroy-SemiBold.woff") format("woff");
+}
+
+/* * {
+  border: 1px solid red;
+} */
+
+html {
+  font-family: "Gilroy", sans-serif;
+  scroll-behavior: smooth;
+}
