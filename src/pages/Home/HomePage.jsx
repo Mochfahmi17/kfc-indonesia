@@ -26,7 +26,7 @@ const HomePage = () => {
 
   return (
     <>
-      <section id="home" className="bg-hitam px-4 pb-8 pt-20 md:px-12 md:pt-28">
+      <section id="home" className="bg-hitam px-4 pb-8 pt-36 md:px-12 md:pt-28">
         <div className="container mx-auto grid grid-cols-1 items-center md:grid-cols-2">
           <div className="justify-self-start text-white md:justify-self-center">
             <h1 className="animate__animated animate__fadeInLeft animate__slow mb-8 max-w-full text-5xl md:max-w-lg lg:text-7xl">

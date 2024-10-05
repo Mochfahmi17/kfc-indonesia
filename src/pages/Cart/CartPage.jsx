@@ -17,7 +17,7 @@ const CartPage = () => {
     <>
       <section
         id="cart"
-        className="animate__animated animate__fadeIn px-4 pb-20 pt-24 md:px-12 md:pt-32"
+        className="animate__animated animate__fadeIn px-4 pb-20 pt-28 md:px-12 md:pt-32"
       >
         <div className="container mx-auto grid grid-cols-1 md:grid-cols-2">
           <div className="relative overflow-x-auto">

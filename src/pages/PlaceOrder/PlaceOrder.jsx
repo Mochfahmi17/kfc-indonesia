@@ -11,7 +11,7 @@ const PlaceOrder = () => {
     }).format(number);
   };
   return (
-    <div className="px-0 pb-28 pt-20 font-poppins md:px-12 md:pb-32 md:pt-36">
+    <div className="animate__animated animate__fadeIn px-0 pb-28 pt-20 font-poppins md:px-12 md:pb-32 md:pt-36">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2">
         <form
           action=""
