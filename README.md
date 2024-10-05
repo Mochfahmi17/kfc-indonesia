@@ -10,7 +10,7 @@ Lebih dari sekadar ayam goreng! Jelajahi dunia rasa KFC dengan beragam menu inov
 - Menu
 - CartPage
 - Delivery Information
-- Login (masih proses)
+- Login & register (masih proses)
 - Support responsive all device
 
 # Tech Stack :
