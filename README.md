@@ -1,8 +1,22 @@
-# React + Vite
+# review
+![porto9](https://github.com/user-attachments/assets/1a42de86-98b7-499a-834e-baa296f1bc6d)
+![KFC-Indonesia](https://github.com/user-attachments/assets/3335fbef-180c-4e44-a693-16a2e133dcad)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# KFC Indonesia
+Lebih dari sekadar ayam goreng! Jelajahi dunia rasa KFC dengan beragam menu inovatif, mulai dari ayam crispy yang renyah hingga burger lezat yang bikin kenyang. Ada juga menu spesial untuk kamu yang vegetarian. Kunjungi kami dan temukan favoritmu!
 
-Currently, two official plugins are available:
+# Features :
+- HomePage
+- Menu
+- CartPage
+- Delivery Information
+- Login (masih proses)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Tech Stack :
+- React JS
+- Tailwind CSS
+- Flowbite
+- Animate CSS
+- Remixicon
+
+#html #css #javascript #tailwindCSS #reactJS #kfcindonesia
