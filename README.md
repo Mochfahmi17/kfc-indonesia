@@ -11,6 +11,7 @@ Lebih dari sekadar ayam goreng! Jelajahi dunia rasa KFC dengan beragam menu inov
 - CartPage
 - Delivery Information
 - Login (masih proses)
+- Support responsive all device
 
 # Tech Stack :
 - React JS
